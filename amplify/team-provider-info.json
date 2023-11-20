@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-listmaker-dev-192902-authRole",
+      "UnauthRoleArn": "arn:aws:iam::751841649472:role/amplify-listmaker-dev-192902-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::751841649472:role/amplify-listmaker-dev-192902-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-listmaker-dev-192902-deployment",
+      "UnauthRoleName": "amplify-listmaker-dev-192902-unauthRole",
+      "StackName": "amplify-listmaker-dev-192902",
+      "StackId": "arn:aws:cloudformation:us-east-2:751841649472:stack/amplify-listmaker-dev-192902/9257b5b0-874c-11ee-9965-0a060aa67327",
+      "AmplifyAppId": "d1y71dwfopvfbe"
+    }
+  }
+}
